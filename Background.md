@@ -3,6 +3,7 @@
 * https://hackernoon.com, https://medium.com small pills easy to digest about a good variety of tech topics
 * https://www.udemy.com, the site where I look for structured learning paths
 * https://www.youtube.com, it might take long to find good resources but there are a lot free content out there
+* https://stackoverflow.com, one classic in the coding community
 
 ## Last 3-5 articles/decks/videos/tweets/podcasts that have managed to caught your attention
 
@@ -16,4 +17,7 @@ I'm a fan of AWS re:Invent conferences, I attended the event in live in Madrid i
 
 [Really cheap Kubernetes cluster on AWS with kubeadm](https://github.com/cablespaghetti/kubeadm-aws)
 I managed to run my own k8s cluster using ECS instances and also collaterally some terraform skills thanks to this repository, for 20$/month I was experimenting and learning with AWS real resources and how to deploy services to a kubernetes cluster, I'm commenting this one because of the number of hours invested on fixing and adapting that terraform code to my needs and because the idea was great, I know that there are other resources like minikube for learning some k8s without having to spend a single dollar but the feeling is not the same than when you use real resources. See https://github.com/borjatur/hapijs-test-service-gitlabci-kubernetes for part of the outcome of this little learning journey, it covers basic CI/CD pipeline with gitlab-ci as well as k8s deployments.
+
+[10 Things I Regret About Node.js](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+I love this conf because of is unusual to see so level of criticism over something such successful as node is and surprisingly coming from one of its original creators. Basically highlights one common situation which is a developer looking at something that built in the past and talking honestly about the fleaky points that you noticed with the perspective of time. I respect that way of being because it would have been very easy for him just to make conferences talking about how brilliant Node is.
 
